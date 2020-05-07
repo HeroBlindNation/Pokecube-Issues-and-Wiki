@@ -48,19 +48,19 @@
     {
       "name": "Squirtle",
       "stats": {
-        "lootTable": "pokecube:entities/bowl"
+        "lootTable": "pokecube:entities/turtleshells_1"
       }
     },
     {
       "name": "Wartortle",
       "stats": {
-        "lootTable": "pokecube:entities/bowl"
+        "lootTable": "pokecube:entities/turtleshells_mid"
       }
     },
     {
       "name": "Blastoise",
       "stats": {
-        "lootTable": "pokecube:entities/bowl"
+        "lootTable": "pokecube:entities/turtleshells_2"
       }
     },
     {
@@ -2030,7 +2030,10 @@
       "name": "Camerupt Mega"
     },
     {
-      "name": "Torkoal"
+      "name": "Torkoal",
+      "stats": {
+        "lootTable": "pokecube:entities/turtleshells_1
+      }
     },
     {
       "name": "Spoink",
@@ -2392,19 +2395,19 @@
     {
       "name": "Turtwig",
       "stats": {
-        "lootTable": "pokecube:entities/wheat_seeds_1"
+        "lootTable": "pokecube:entities/shellseed_1"
       }
     },
     {
       "name": "Grotle",
       "stats": {
-        "lootTable": "pokecube:entities/wheat_seeds_2"
+        "lootTable": "pokecube:entities/shellseed_2"
       }
     },
     {
       "name": "Torterra",
       "stats": {
-        "lootTable": "pokecube:entities/wheat_seeds_3"
+        "lootTable": "pokecube:entities/shellseed_2"
       }
     },
     {
@@ -3355,13 +3358,13 @@
     {
       "name": "Tirtouga",
       "stats": {
-        "lootTable": "pokecube:entities/fossil_mob"
+        "lootTable": "pokecube:entities/fossil_mobshell_1"
       }
     },
     {
       "name": "Carracosta",
       "stats": {
-        "lootTable": "pokecube:entities/fossil_mob"
+        "lootTable": "pokecube:entities/fossil_mobshell_2"
       }
     },
     {
@@ -4586,7 +4589,10 @@
       }
     },
     {
-      "name": "Turtonator"
+      "name": "Turtonator",
+      "stats": {
+        "lootTable": "pokecube:entities/turtleshells_2"
+      }
     },
     {
       "name": "Togedemaru"
@@ -4769,10 +4775,16 @@
       "name": "Dubwool"
     },
     {
-      "name": "Chewtle"
+      "name": "Chewtle",
+      "stats": {
+        "lootTable": "pokecube:entities/turtleshells_1"
+      }
     },
     {
-      "name": "Drednaw"
+      "name": "Drednaw",
+      "stats": {
+        "lootTable": "pokecube:entities/turtleshells_2
+      }
     },
     {
       "name": "Yamper"
