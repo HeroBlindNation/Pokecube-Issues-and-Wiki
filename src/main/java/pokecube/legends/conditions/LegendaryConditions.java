@@ -46,6 +46,7 @@ public class LegendaryConditions
 
         new LegendarySpawn("heatran", ItemInit.MAGMA_CORE, Blocks.MAGMA_BLOCK);
         new LegendarySpawn("keldeo", ItemInit.RAINBOW_SWORD, BlockInit.KELDEO_CORE);
+        new LegendarySpawn("rayquaza", ItemInit.GREENORB, BlockInit.LEGENDARY_SPAWN);
 
         new LegendarySpawn("landorusincarnate", ItemInit.ORANGE_RUNE, BlockInit.NATURE_CORE);
         new LegendarySpawn("thundurusincarnate", ItemInit.BLUE_RUNE, BlockInit.NATURE_CORE);
